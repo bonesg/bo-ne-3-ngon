@@ -1,6 +1,6 @@
 ---
-title: Mediumish Template for Jekyll
-permalink: "/about"
+title: hk
+permalink: "/hk"
 layout: page
 comments: true
 ---
