@@ -11,12 +11,12 @@ collections:
 name: Bò Né 3 Ngon
 description: 'Nhượng quyền bò né 3 Ngon Hỗ trợ mở quán bò né ở các tỉnh thành phố.tư
   vấn mở quán bò né,cung cấp nguyên liệu làm bò né. Liên hệ: 090 519 96 80.'
-logo: assets/images/logo.png
+logo: "/uploads/chuoi-bo-ne-3-ngon.jpg"
 favicon: assets/images/logo.png
 baseurl: 
 google_analytics: UA-140445892-1
 disqus: bone3ngon
-mailchimp-list: ''
+mailchimp-list: 
 include:
 - _pages
 permalink: "/:title/"
@@ -63,7 +63,7 @@ kramdown:
       line_numbers: true
 adsense: disabled
 adsense-data-ad-client: ca-pub-3412143450191416
-adsense-data-ad-slot: '1363087678'
+adsense-data-ad-slot: 1363087678
 lazyimages: disabled
 exclude:
 - changelog.md
