@@ -93,7 +93,9 @@ printf("Hello World");
 
 
 
-![walking]({![bone4.jpg](/uploads/bone4.jpg)
+![walking]({
+
+![bone4.jpg](/uploads/bone4.jpg)
 
 ## Reference lists
 
