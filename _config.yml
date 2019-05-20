@@ -31,8 +31,8 @@ authors:
     description: 'Nhượng quyền bò né 3 Ngon Hỗ trợ mở quán bò né ở các tỉnh thành
       phố.tư vấn mở quán bò né,cung cấp nguyên liệu làm bò né. Liên hệ: 090 519 9680.'
   john:
-    name: John
-    display_name: John
+    name: bo-ne-3-ngon
+    display_name: bò né 3 ngon
     avatar: assets/images/avatar.png
     gravatar: 4a12c8f549bfeae272fa1e1893dc2c46
     email: 
