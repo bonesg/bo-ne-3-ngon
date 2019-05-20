@@ -1,19 +1,25 @@
-# Site
-name: "Bò Né 3 Ngon"
-title: "Bò Né 3 Ngon"
-description: "Nhượng quyền bò né 3 Ngon Hỗ trợ mở quán bò né ở các tỉnh thành
-      phố.tư vấn mở quán bò né,cung cấp nguyên liệu làm bò né. Liên hệ: 090 519 96
-      80."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+---
+title: Bò Né 3 Ngon
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+name: Bò Né 3 Ngon
+description: 'Nhượng quyền bò né 3 Ngon Hỗ trợ mở quán bò né ở các tỉnh thành phố.tư
+  vấn mở quán bò né,cung cấp nguyên liệu làm bò né. Liên hệ: 090 519 96 80.'
+logo: assets/images/logo.png
+favicon: assets/images/logo.png
 baseurl: 
-google_analytics: 'UA-140445892-1'
-disqus: 'bn3ngon'
+google_analytics: UA-140445892-1
+disqus: bn3ngon
 mailchimp-list: ''
-include: ["_pages"]
-permalink: /:title/
-
-# Authors
+include:
+- _pages
+permalink: "/:title/"
 authors:
   sal:
     name: bo-ne-3-ngon
@@ -22,53 +28,46 @@ authors:
     email: 
     web: http://bone3ngon.com.vn
     twitter: https://twitter.com/3ngon
-    description: "Nhượng quyền bò né 3 Ngon Hỗ trợ mở quán bò né ở các tỉnh thành phố.tư vấn mở quán bò né,cung cấp nguyên liệu làm bò né. Liên hệ: 090 519 9680."
+    description: 'Nhượng quyền bò né 3 Ngon Hỗ trợ mở quán bò né ở các tỉnh thành
+      phố.tư vấn mở quán bò né,cung cấp nguyên liệu làm bò né. Liên hệ: 090 519 9680.'
   john:
     name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
+    display_name: John
+    avatar: assets/images/avatar.png
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email:
+    email: 
     web: http://bone3ngon.com.vn
     twitter: https://twitter.com/3ngon
-    description: "Nhượng quyền bò né 3 Ngon Hỗ trợ mở quán bò né ở các tỉnh thành phố.tư vấn mở quán bò né,cung cấp nguyên liệu làm bò né. Liên hệ: 090 519 9680."
-
-# Plugins
+    description: 'Nhượng quyền bò né 3 Ngon Hỗ trợ mở quán bò né ở các tỉnh thành
+      phố.tư vấn mở quán bò né,cung cấp nguyên liệu làm bò né. Liên hệ: 090 519 9680.'
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-archives
-    
-# Archives
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives
 jekyll-archives:
   enabled:
-    - categories
+  - categories
   layout: archive
   permalinks:
-    category: '/category/:name/'
-    
-# Pagination 
+    category: "/category/:name/"
 paginate: 6
-paginate_path: /page:num/
-    
-# Other
+paginate_path: "/page:num/"
 markdown: kramdown
-
 kramdown:
   input: GFM
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     block:
       line_numbers: true
-
-# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-adsense: "disabled"
-adsense-data-ad-client: "ca-pub-3412143450191416"
-adsense-data-ad-slot: "1363087678"
-
-# Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
-
-exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+adsense: disabled
+adsense-data-ad-client: ca-pub-3412143450191416
+adsense-data-ad-slot: '1363087678'
+lazyimages: disabled
+exclude:
+- changelog.md
+- LICENSE.txt
+- README.md
+- Gemfile
+- Gemfile.lock
