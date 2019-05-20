@@ -37,7 +37,9 @@ authors:
     email: 
     web: http://bone3ngon.com.vn
     twitter: https://twitter.com/3ngon
-    description: 'Hệ thống bò né 3 ngon. Cung cấp bò né chất lượng cho các quán ăn bít tết Việt. Hợp tác đại lý, mở quán bò né 3 NGON, hổ trợ đứng bếp, setup quán, hướng dẫn kinh doanh'
+    description: Hệ thống bò né 3 ngon. Cung cấp bò né chất lượng cho các quán ăn
+      bít tết Việt. Hợp tác đại lý, mở quán bò né 3 NGON, hổ trợ đứng bếp, setup quán,
+      hướng dẫn kinh doanh
 plugins:
 - jekyll-paginate
 - jekyll-sitemap
