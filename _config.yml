@@ -1,35 +1,37 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "Bò Né 3 Ngon"
+title: "Bò Né 3 Ngon"
+description: "Nhượng quyền bò né 3 Ngon Hỗ trợ mở quán bò né ở các tỉnh thành
+      phố.tư vấn mở quán bò né,cung cấp nguyên liệu làm bò né. Liên hệ: 090 519 96
+      80."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /mediumish-theme-jekyll
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+baseurl: 
+google_analytics: 'UA-140445892-1'
+disqus: 'bn3ngon'
+mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: bo-ne-3-ngon
+    display_name: bò né 3 ngon
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    email: 
+    web: http://bone3ngon.com.vn
+    twitter: https://twitter.com/3ngon
+    description: "Nhượng quyền bò né 3 Ngon Hỗ trợ mở quán bò né ở các tỉnh thành phố.tư vấn mở quán bò né,cung cấp nguyên liệu làm bò né. Liên hệ: 090 519 9680."
   john:
     name: John
     display_name: John    
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    email:
+    web: http://bone3ngon.com.vn
+    twitter: https://twitter.com/3ngon
+    description: "Nhượng quyền bò né 3 Ngon Hỗ trợ mở quán bò né ở các tỉnh thành phố.tư vấn mở quán bò né,cung cấp nguyên liệu làm bò né. Liên hệ: 090 519 9680."
 
 # Plugins
 plugins:
