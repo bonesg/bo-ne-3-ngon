@@ -1,5 +1,5 @@
 ---
-title: Inception Movie
+title: Inception Movie hk
 date: 2018-01-11 00:00:00 Z
 categories:
 - Jekyll
@@ -7,7 +7,6 @@ categories:
 tags:
 - red
 - yellow
-layout: post
 author: john
 image: assets/images/11.jpg
 description: My review of Inception movie. Acting, plot and something else in this
@@ -15,6 +14,7 @@ description: My review of Inception movie. Acting, plot and something else in th
 featured: true
 hidden: true
 rating: 4.5
+layout: post
 ---
 
 Review products, books, movies, restaurant and anything you like on your Jekyll blog with Mediumish! JSON-LD ready for review property.
