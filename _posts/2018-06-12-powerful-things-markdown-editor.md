@@ -4,9 +4,9 @@ date: 2018-06-12 00:00:00 Z
 categories:
 - Jekyll
 - tutorial
-layout: post
 author: sal
 image: assets/images/16.jpg
+layout: post
 ---
 
 There are lots of powerful things you can do with the Markdown editor. If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
@@ -93,7 +93,7 @@ printf("Hello World");
 
 
 
-![walking]({{ site.baseurl }}/assets/images/8.jpg)
+![walking]({![bone4.jpg](/uploads/bone4.jpg)
 
 ## Reference lists
 
